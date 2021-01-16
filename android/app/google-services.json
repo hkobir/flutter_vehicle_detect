@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "854159226077",
+    "firebase_url": "https://vehicle-detect-system-default-rtdb.firebaseio.com",
+    "project_id": "vehicle-detect-system",
+    "storage_bucket": "vehicle-detect-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854159226077:android:4e8b320f70ecfc1cf0d734",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_detect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854159226077-2jqlcr3hvd824d0uo584re2a3ogm3anb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKjVXlGot51HKrpxBvpWgm4zvbgTVhT0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854159226077-2jqlcr3hvd824d0uo584re2a3ogm3anb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>854159226077-5pk5unr1c4h5k3isd0ntr75j9pnr46v4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.854159226077-5pk5unr1c4h5k3isd0ntr75j9pnr46v4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAZaWZHh11t5Do6Dx4z7t8VCRQcrEAxXW8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>854159226077</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.vehicleDetect</string>
+	<key>PROJECT_ID</key>
+	<string>vehicle-detect-system</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vehicle-detect-system.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:854159226077:ios:cee3fa0565046b41f0d734</string>
+	<key>DATABASE_URL</key>
+	<string>https://vehicle-detect-system-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
